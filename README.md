@@ -7,7 +7,9 @@ Works only if zsh and oh-my-zsh are installed.
 
 ## Installation: 
 
-1. ```sudo git clone https://github.com/AOSXAP/deia.zsh_theme.git && cd deia.zsh_theme && sudo chmod +x ./install.sh && ./install.sh && zsh```
+```shell
+sudo git clone https://github.com/AOSXAP/deia.zsh_theme.git && cd deia.zsh_theme && sudo chmod +x ./install.sh && ./install.sh && zsh
+```
 
 ## OR 
 
