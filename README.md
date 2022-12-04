@@ -1,7 +1,9 @@
 # DEIA ZSH THEME
 
-A semi-minimalist zsh theme which highlights cpu usage, command exit codes and makes commands more readable.
+A semi-minimalist zsh theme which highlights cpu usage, command exit codes and makes commands more readable. <br>
 Works only if zsh and oh-my-zsh are installed.
+
+![deia_zsh](https://i.imgur.com/nSB0bjV.png)
 
 ## Installation: 
 1. git clone https://github.com/AOSXAP/deia.zsh_theme.git
